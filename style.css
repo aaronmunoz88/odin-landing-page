@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.hero{
+  background-color: #1F2937;
+  width: 100dv;
+}
+
+.header{
+  display:flex;
+  justify-content: space-between;
+}
+
+.signupbox{
+  display: flex;
+}
+
+ul{
+  display: flex;
+  list-style-type: none;
+  gap:10px;
+}
+
+img{
+  width: 300px;
+}
