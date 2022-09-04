@@ -201,3 +201,14 @@ img{
   font-weight: bold;
   cursor: pointer;
 }
+
+.footer{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  color: white;
+
+}
