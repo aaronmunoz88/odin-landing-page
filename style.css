@@ -30,7 +30,6 @@
   font-size: 18px;
   color: #E5E7EB;
   text-decoration: none;
-  flex-shrink: 0;
 }
 
 ul{
@@ -53,7 +52,7 @@ ul{
 .signup-box{
   width: 400px;
   flex-wrap: wrap;
-
+  flex-shrink: 0;
 }
 
 img{
